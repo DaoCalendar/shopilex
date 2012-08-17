@@ -1,0 +1,26 @@
+/* God I hate Microsoft! */
+#header #cart {
+	width: 400px;
+}
+#header #cart .heading {
+	position: relative;
+	right: 172px;
+	margin-right: 0px;
+}
+#header #cart .content {
+	
+}
+
+.success, .warning, .attention, .information {
+	position: relative;
+}
+.success .close, .warning .close, .attention .close, .information .close {
+	position: absolute;
+	right: 10px;
+}
+
+.button{
+	min-width:45px!important;
+}
+
+.ym-g25{ width:24.9%; }
