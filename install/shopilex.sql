@@ -2525,6 +2525,8 @@ INSERT INTO `si_zone` VALUES (715,44,'TW','台湾省',1);
 INSERT INTO `si_zone` VALUES (716,44,'QH','青海省',1);
 INSERT INTO `si_zone` VALUES (717,44,'XZ','西藏自治区',1);
 
+
+DROP VIEW IF EXISTS `v_city`;
 --
 -- Create view `v_city`
 --
