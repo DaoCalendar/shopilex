@@ -259,7 +259,7 @@ INSERT INTO `si_setting` (`setting_id`, `store_id`, `group`, `key`, `value`, `se
 INSERT INTO `si_setting` (`setting_id`, `store_id`, `group`, `key`, `value`, `serialized`) VALUES ('25935', '0', 'weight', 'weight_10_status', '1', '0');
 INSERT INTO `si_setting` (`setting_id`, `store_id`, `group`, `key`, `value`, `serialized`) VALUES ('26092', '0', 'cod', 'cod_total', '10', '0');
 INSERT INTO `si_setting` (`setting_id`, `store_id`, `group`, `key`, `value`, `serialized`) VALUES ('25973', '0', 'bank_transfer', 'bank_transfer_bank_1', '银行转账', '0');
-INSERT INTO `si_setting` (`setting_id`, `store_id`, `group`, `key`, `value`, `serialized`) VALUES ('25974', '0', 'bank_transfer', 'bank_transfer_total', '10', '0');
+INSERT INTO `si_setting` (`setting_id`, `store_id`, `group`, `key`, `value`, `serialized`) VALUES ('25974', '0', 'bank_transfer', 'bank_transfer_total', '0', '0');
 INSERT INTO `si_setting` (`setting_id`, `store_id`, `group`, `key`, `value`, `serialized`) VALUES ('25975', '0', 'bank_transfer', 'bank_transfer_order_status_id', '1', '0');
 INSERT INTO `si_setting` (`setting_id`, `store_id`, `group`, `key`, `value`, `serialized`) VALUES ('25976', '0', 'bank_transfer', 'bank_transfer_geo_zone_id', '0', '0');
 INSERT INTO `si_setting` (`setting_id`, `store_id`, `group`, `key`, `value`, `serialized`) VALUES ('25977', '0', 'bank_transfer', 'bank_transfer_status', '1', '0');
