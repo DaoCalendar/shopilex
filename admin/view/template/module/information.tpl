@@ -109,4 +109,3 @@ function addModule() {
 	module_row++;
 }
 //--></script>
-<?php echo $footer; ?>
