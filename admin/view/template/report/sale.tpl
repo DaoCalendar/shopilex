@@ -62,7 +62,7 @@ $(function () {
             },
             series: [{
                 name: '销售额(百元)',
-                data: [<? echo $order_total;?>]
+                data: [<?php echo $order_total;?>]
             }, {
                 name: '订单数',
                 data: [<?php echo $orders;?>]
