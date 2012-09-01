@@ -67,7 +67,7 @@ Shopilex可以配置不同的路由,比如你的访问链接index?route=commom/h
 了解了以上的概念,对开发Shopilex的模板会有一定的帮助.更多的帮助和教程信息,请关注[Shopilex官方网站]:http://www.shopilex.com/.
 
 如何获取Shopilex最新更新信息
-关注我们的[Shopilex官方微薄](http://weibo.com/shopilex/),获取最新的更新信息,我们会定期在微博上发布我们最新的更新和Bug修复信息.
+关注Shopilex官方微薄: http://weibo.com/shopilex/, 获取最新的更新信息,我们会定期在微博上发布我们最新的更新和Bug修复信息.
 
 如何帮助Shopilex更好的发展
 Shopilex是开源产品,用户可以免费使用,目前我们没有明确的盈利模式.如果你觉得Shopilex还不错,欢迎你转发我们的微博,或者把Shopilex分享给更多的人,如果你是开发者,欢迎你加入开发Shopilex扩展和代码完善中来.
