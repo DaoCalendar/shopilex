@@ -30,6 +30,7 @@ Shopilex是一个独立的中小型B2C网店,用于建立独立的网店平台,�
 * Session Auto Start:	Off
 <br/>
 <br/>
+
 **安装环境是否包含以下扩展:**<br/>
 * MySQL:	On	
 * GD:	On	On	
@@ -41,6 +42,7 @@ Shopilex是一个独立的中小型B2C网店,用于建立独立的网店平台,�
 
 推荐使用LAMP或者LANMP环境,即Lunix,Apache,Nginx,以获得最佳使用体验.
 <br/><br/>
+
 **执行安装:**
 将下载后的ZIP包解压到网站的根目录(或者你需要安装的目录下),访问: 网站目录/install,
 然后根据安装界面的提示,一步步往下填写相对应的信息并且点击下一步即可.
